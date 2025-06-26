@@ -22,7 +22,7 @@ This workflow:
 
 **Workflow Preview:**
 
-![gdrive2pinecone Workflow](https://github.com/yourusername/your-repo/blob/main/chatbot_n8n/gdrive2pinecone.png)
+![gdrive2pinecone Workflow](https://github.com/DavidGadyan/n8n_projects/tree/main/chatbot_n8n/gdrive2pinecone.png)
 
 ---
 
@@ -37,7 +37,7 @@ This workflow:
 
 **Workflow Preview:**
 
-![n8n Chatbot Workflow](https://github.com/yourusername/your-repo/blob/main/chatbot_n8n/n8n_chatbot.png)
+![n8n Chatbot Workflow](https://github.com/DavidGadyan/n8n_projects/tree/main/chatbot_n8n/n8n_chatbot.png)
 
 ---
 
