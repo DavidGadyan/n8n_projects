@@ -7,7 +7,7 @@ This repository contains automation projects built using [n8n](https://n8n.io), 
 <details>
 <summary>🤖 Project: <code>chatbot_n8n</code></summary>
 
-> 🚀 **Opening**: A smart, AI-powered chatbot designed for a real estate company to assist digital nomads in finding suitable homes and answer common queries. It uses OpenAI's GPT-4o for semantic search and Pinecone as a vector database.
+> 🚀 A smart, AI-powered chatbot designed for a real estate company to assist digital nomads in finding suitable homes and answer common queries. It uses OpenAI's GPT-4o for semantic search and Pinecone as a vector database.
 
 ### 🔧 Workflows Included
 
@@ -43,7 +43,7 @@ This repository contains automation projects built using [n8n](https://n8n.io), 
 - **Pinecone** – Vector similarity search
 - **Google Drive & Google Sheets** – For document source and lead management
 
-> ✅ **Closing**: This chatbot system shows how AI and automation can streamline customer interaction and lead generation for real estate.
+> ✅ This chatbot system shows how AI and automation can streamline customer interaction and lead generation for real estate.
 
 </details>
 
@@ -52,7 +52,7 @@ This repository contains automation projects built using [n8n](https://n8n.io), 
 <details>
 <summary>🤖 Project: <code>ai_assistant</code></summary>
 
-> 🚀 **Opening**: An advanced AI Assistant that helps manage daily productivity tasks like researching topics, handling calendar events, sending emails, and automating social media content creation.
+> 🚀 An advanced AI Assistant that helps manage daily productivity tasks like researching topics, handling calendar events, sending emails, and automating social media content creation.
 
 ### 💼 Capabilities
 
@@ -79,6 +79,6 @@ This repository contains automation projects built using [n8n](https://n8n.io), 
 - **Google Sheets** – For contact management
 - **X (formerly Twitter)** – For post generation
 
-> ✅ **Closing**: Perfect for entrepreneurs and busy professionals—this assistant showcases how n8n can bring AI productivity tools into your daily workflow.
+> ✅ Perfect for entrepreneurs and busy professionals—this assistant showcases how n8n can bring AI productivity tools into your daily workflow.
 
 </details>
