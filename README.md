@@ -81,4 +81,6 @@ This repository contains automation projects built using [n8n](https://n8n.io), 
 
 > ✅ Perfect for entrepreneurs and busy professionals—this assistant showcases how n8n can bring AI productivity tools into your daily workflow.
 
+P.S. Drop me a message on davidgadyan92@gmail.com if you want access to my Telegram AI Assistant for testing.
+
 </details>
